@@ -1,0 +1,1 @@
+# Transcrit avec Whisper
