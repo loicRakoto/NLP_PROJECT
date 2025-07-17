@@ -75,3 +75,4 @@ try:
     print(f"✅ Traduction terminée. Fichier : {OUTPUT_FILE}")
 except Exception as e:
     print("❌ Erreur à l’écriture du fichier :", str(e))
+    exit()
